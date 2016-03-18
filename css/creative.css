@@ -524,14 +524,14 @@ padding:0 20px 0 100px;
 .timeline>li .timeline-image {
 left:0;
 margin-left:0;
-width:80px;
-height:80px;
+width:100px;
+height:100px;
 position:absolute;
 z-index:100;
 background-color:#00929b;
 color:#fff;
 border-radius:100%;
-border:7px solid #f1f1f1;
+border:0px solid #f1f1f1;
 text-align:center;
 }
 
@@ -660,4 +660,61 @@ margin-top:40px;
 .timeline>li.timeline-inverted>.timeline-panel {
 padding:0 100px 20px 20px;
 }
+}
+
+
+.team-member img {
+border:7px solid #fff;
+margin:0 auto;
+}
+
+.team-member h4 {
+margin-top:25px;
+margin-bottom:0;
+text-transform:none;
+}
+
+.team-member p {
+margin-top:0;
+}
+
+.bg-light-gray {
+background-color:#f7f7f7;
+}
+
+
+section#contact {
+background-color:#222;
+background-image:url(../img/map-image.png);
+background-position:center;
+background-repeat:no-repeat;
+}
+
+section#contact .section-heading {
+color:#fff;
+}
+
+section#contact .form-group {
+margin-bottom:25px;
+}
+
+section#contact .form-group input,section#contact .form-group textarea {
+padding:20px;
+}
+
+section#contact .form-group input.form-control {
+height:auto;
+}
+
+section#contact .form-group textarea.form-control {
+height:236px;
+}
+
+section#contact .form-control:focus {
+box-shadow:none;
+border-color:#fed136;
+}
+
+section#contact .text-danger {
+color:#e74c3c;
 }
