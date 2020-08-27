@@ -4,11 +4,14 @@ I am a Computer Science PhD candidate at The University of Wisconsin, Madison ad
 
 In the past, I have worked with Cisco as a Full Stack Developer as a part of the Engineering IT team. I am an open source enthusiast and have worked as Student Developer for GSoC 2015 and 2016.
 
+## Papers
+- Anjali, Tyler Caraza-Harter and Michael M. Swift. [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](http://www.cs.wisc.edu/multifacet/papers/vee20_blending.pdf). VEE 2020. [video](https://www.youtube.com/watch?v=qSXbsdr08CQ), [slides](http://www.cs.wisc.edu/multifacet/papers/vee20_blending_talk.pdf).
+
 ## Courses
 - Cisco Systems Pvt. Ltd. [Jan 2016 - June 2018]
 - Reviewer @Anita Borg Institute Pass It On awards 2017, 2018
-- Mentor @Google Summer of Code [Summer 2017]
-- Mentor @Google Code-In 2016, 2017
+- CS 744 Big Data Systems
+- CS 739 Distributed Systems
 - CS 640 Intro to Computer Networks
 
 ## Contact
