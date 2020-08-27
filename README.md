@@ -12,4 +12,4 @@ In the past, I have worked with Cisco as a Full Stack Developer as a part of the
 - Student Developer @Google Summer of Code [Summer 2015, 2016]
 
 ## Contact
-My resume is [here](https://drive.google.com/file/d/1a2Z6ggm2lD5s2C-ZZVcitRAfMt4q_RUE/view?usp=sharing) and I can be reached at <anjali@wisc.edu>.
+I can be reached at <anjali@wisc.edu>.
