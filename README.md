@@ -8,8 +8,11 @@ In the past, I have worked with Cisco as a Full Stack Developer as a part of the
 - Anjali, Tyler Caraza-Harter and Michael M. Swift. [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](http://www.cs.wisc.edu/multifacet/papers/vee20_blending.pdf). VEE 2020. [video](https://www.youtube.com/watch?v=qSXbsdr08CQ), [slides](http://www.cs.wisc.edu/multifacet/papers/vee20_blending_talk.pdf).
 
 ## Courses
-- Cisco Systems Pvt. Ltd. [Jan 2016 - June 2018]
-- Reviewer @Anita Borg Institute Pass It On awards 2017, 2018
+- CS 736 Advanced Operating Systems
+- CS 799 Master's Research
+- CS 764 Topics-Database Mgt Systems
+- CS 642 Intro to Information Security
+- CS 838 Edge Computing Laboratory
 - CS 744 Big Data Systems
 - CS 739 Distributed Systems
 - CS 640 Intro to Computer Networks
