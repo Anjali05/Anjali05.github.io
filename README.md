@@ -1,6 +1,6 @@
 ## About
 
-I am a Computer Science PhD candidate at The University of Wisconsin, Madison advised by [Mike Swift](http://pages.cs.wisc.edu/~swift/). My research is broadly in Systems with a focus on isolation in Serverless Computing.
+I am a Computer Science PhD student at The University of Wisconsin, Madison advised by [Mike Swift](http://pages.cs.wisc.edu/~swift/). My research is broadly in Systems with a focus on isolation in Serverless Computing.
 
 
 ## Papers
