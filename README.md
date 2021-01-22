@@ -15,6 +15,3 @@ I am a Computer Science PhD student at The University of Wisconsin, Madison advi
 - CS 744 Big Data Systems
 - CS 739 Distributed Systems
 - CS 640 Intro to Computer Networks
-
-## Contact
-I can be reached at <anjali@wisc.edu>.
