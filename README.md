@@ -3,7 +3,7 @@
 I am a Computer Science PhD student at The University of Wisconsin, Madison advised by [Mike Swift](http://pages.cs.wisc.edu/~swift/). My research is broadly in Systems with a focus on isolation in Serverless Computing.
 
 
-## Papers
+## Paper
 - Anjali, Tyler Caraza-Harter and Michael M. Swift. [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](http://www.cs.wisc.edu/multifacet/papers/vee20_blending.pdf). VEE 2020. [video](https://www.youtube.com/watch?v=qSXbsdr08CQ), [slides](http://www.cs.wisc.edu/multifacet/papers/vee20_blending_talk.pdf).
 
 ## Courses
